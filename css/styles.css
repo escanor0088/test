@@ -463,6 +463,9 @@ body {
 
   }
 
+  .offcanvas-body {
+    background-color: #fff; /* Set your desired background color */
+}
 
 
   @media (max-width: 991.98px) {
@@ -1281,12 +1284,12 @@ margin-top: 20px;
 }
 
 .WRK-DATA{
-  background-color: black;
+  background-color: grey;
   color: white;
 }
 
 .WRK-DATA-2{
-  background-color: black;
+  background-color: grey;
   color: white;
 }
 
@@ -1298,13 +1301,13 @@ margin-top: 20px;
   }
     .B3{margin-top: 8px;
 
-color: yellow;
+background-color: orange;
 
     }
       .B4{margin-top: 8px;}
         .B5{margin-top: 8px;}
           .B6{margin-top: 8px;
-color: yellow;
+background-color: orange;
 
           }
 
@@ -1318,13 +1321,13 @@ color: yellow;
             }
               .B3-3{margin-top: 8px;
 
-          color: yellow;
+          background-color: yellow;
 
               }
                 .B4-4{margin-top: 8px;}
                   .B5-5{margin-top: 8px;}
                     .B6-6{margin-top: 8px;
-        color: yellow;
+          background-color: yellow;
 
                     }
 
@@ -1600,15 +1603,11 @@ margin-top: 20px;
 
 .EXP-TITLE-1{
 
-  color: white;
-  margin-left: 0px;
-
-}
-
-.EXP-TITLE-2{
-
-  color: white;
-
+  background-color: white;
+  color: Black;
+  border: solid black;
+  width: 320px;
+  margin-left: 20px;
 
 }
 
